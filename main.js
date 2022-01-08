@@ -93,10 +93,10 @@ function play() {
 }
 function direct() { 
     window.alert("Please allow pop-up first");
-    window.open('https://www.codexworld.com', '_blank');
+    window.open('https://www.youtube.com/watch?v=uKxyLmbOc0Q', '_blank');
     
 
 }
 function direct2() { 
-    window.open('https://www.youtube.com', '_blank');
+    window.open('https://www.youtube.com/watch?v=1TRAEgqpFXs', '_blank');
 }
